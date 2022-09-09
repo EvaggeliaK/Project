@@ -34,3 +34,22 @@ p {
   color: #674f04;
   text-align: left;
 }
+.in {
+  background-color: #d3bd9a;
+}
+.card {
+  height: 20rem;
+  width: 12rem;
+  background-color: #a28f70;
+  align-self: right;
+}
+.card-title {
+  color: #674f04;
+}
+.btn {
+  background-color: #674f04;
+}
+.oneimg {
+  height: 330;
+  width: 450;
+}
